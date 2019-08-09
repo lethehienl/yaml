@@ -1,0 +1,12 @@
+{
+    "name": "lethehienl/yaml",
+    "type": "library",
+    "description": "Using Symfony Yaml Component to translate",
+    "keywords": [],
+    "homepage": "https://symfony.com",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.6.0"
+    }
+
+}
